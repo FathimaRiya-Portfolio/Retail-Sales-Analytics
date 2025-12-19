@@ -1,39 +1,39 @@
 # Retail-Sales-Analytics
 Workforce and HR analytics focused on employee performance and attrition insights
-👥 Workforce Analytics
+🛒 Retail Sales Analytics
 Overview
 
-This project focuses on analyzing workforce and HR data to generate insights related to employee performance, attrition, and workforce distribution. The objective is to support HR teams and management with data-driven insights for better people-related decisions.
+This project focuses on analyzing retail sales data to understand revenue trends, product performance, and regional sales patterns. The analysis is designed to support business teams in monitoring performance and identifying growth opportunities.
 
 Problem Context
 
-Organizations rely on workforce analytics to improve retention, optimize performance, and plan resources effectively. Understanding employee trends and key HR metrics is essential for long-term organizational growth.
+Retail organizations rely on sales analytics to optimize product strategy, improve forecasting, and drive informed decision-making. This project demonstrates how structured sales data can be transformed into meaningful business insights.
 
 Analytical Approach
 
-Data cleaning and preprocessing
+Data cleaning and preparation
 
-Analysis of employee demographics and workforce distribution
+Analysis of sales trends and revenue patterns
 
-Attrition and retention trend analysis
+Product-level and category-level performance analysis
 
-Identification of key HR performance indicators
+Regional sales comparison
 
 Key Insights
 
-Certain employee attributes show strong correlation with attrition
+Sales performance varies significantly across product categories
 
-Workforce distribution varies significantly across departments
+Certain regions consistently outperform others
 
-Data-driven HR analysis can support proactive retention strategies
+Trend analysis helps identify seasonal and demand-driven patterns
 
 Business Value
 
-Supports strategic workforce planning
+Supports sales monitoring and performance evaluation
 
-Helps identify attrition risks early
+Helps identify high- and low-performing products
 
-Enables informed HR and management decisions
+Enables data-driven retail strategy decisions
 
 Tools & Technologies
 
